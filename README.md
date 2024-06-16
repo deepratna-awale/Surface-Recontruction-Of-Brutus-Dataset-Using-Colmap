@@ -36,10 +36,7 @@ The ‘undistort_using_intrinsic_information.py’ Python script will undistort 
 [Technical Report](Resources/TechnicalReport.pdf)
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=o3DYzf60YBM
-" target="_blank"><img src="http://img.youtube.com/vi/o3DYzf60YBM/0.jpg" 
-alt="Colmap on Brutus Dataset" width="240" height="180"/></a>
-
+[![Colmap on Brutus Dataset](https://img.youtube.com/vi/o3DYzf60YBM/0.jpg)](https://www.youtube.com/watch?v=o3DYzf60YBM)
 
 # References
 [^1]: Johannes L. Schönberger, “COLMAP Source Code,” https://github.com/colmap/colmap Github.
